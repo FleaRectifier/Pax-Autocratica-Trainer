@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://facechainflate.github.io/pax-autocratica-trainer/sitemap.xml
