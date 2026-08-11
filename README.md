@@ -2,14 +2,13 @@
 
 **Pax Autocratica trainer** with an in-game **mod menu** covering both halves of the game: god mode and one-hit kill for the FPS expeditions, infinite resources and instant build for the colony, max loyalty and no rebellion for your citizens, plus core control for the roguelite loop. Works with the **Steam** and **Epic Games Store** Early Access builds of Multiverse's totalitarian colony sim. Open the overlay with `Insert`, flip a toggle, keep ruling.
 
-[![Version](https://img.shields.io/badge/version-v1.0.0-b4442f)](https://github.com/YOUR-USERNAME/pax-autocratica-trainer/releases/latest)
-[![Platform](https://img.shields.io/badge/platform-Windows%2010%20%7C%2011-1c1813)](https://github.com/YOUR-USERNAME/pax-autocratica-trainer/releases/latest)
+[![Version](https://img.shields.io/badge/version-v1.0.0-b4442f)](https://github.com/FleaRectifier/Pax-Autocratica-Trainer/releases/latest)
+[![Platform](https://img.shields.io/badge/platform-Windows%2010%20%7C%2011-1c1813)](https://github.com/FleaRectifier/Pax-Autocratica-Trainer/releases/latest)
 [![Stores](https://img.shields.io/badge/stores-Steam%20%7C%20Epic-1b2838)](#compatibility)
 [![Early Access](https://img.shields.io/badge/game-Early%20Access-d99a2b)](#early-access-and-broken-offsets)
-[![Downloads](https://img.shields.io/github/downloads/YOUR-USERNAME/pax-autocratica-trainer/total)](https://github.com/YOUR-USERNAME/pax-autocratica-trainer/releases)
 [![License](https://img.shields.io/badge/license-MIT-e0c17a)](LICENSE)
 
-> **[⬇ Download the latest Pax Autocratica trainer](https://github.com/YOUR-USERNAME/pax-autocratica-trainer/releases/latest)**
+> **[⬇ Download the latest Pax Autocratica trainer](https://github.com/FleaRectifier/Pax-Autocratica-Trainer/releases/latest)**
 
 ---
 
@@ -218,7 +217,7 @@ Steam flags this game for flashing lights and photosensitive epilepsy. **Reduce 
 
 ## Installation
 
-1. **Download** the latest archive from the [Releases page](https://github.com/YOUR-USERNAME/pax-autocratica-trainer/releases/latest).
+1. **Download** the latest archive from the [Releases page](https://github.com/FleaRectifier/Pax-Autocratica-Trainer/releases/latest).
 2. **Unblock it** — right-click the `.zip`, choose Properties, tick *Unblock*, then Apply. Windows quarantines downloaded archives and the trainer won't attach otherwise.
 3. **Extract** anywhere outside `Program Files`.
 4. **Launch the game first** and load a colony, so the process exists.
@@ -312,13 +311,13 @@ Press `End`.
 
 First public release, one day after the game's Early Access launch. 50+ options across Leader, Squad, Cores, Colony, Citizens, Expedition, Camera and Trainer. Read-only mode and automatic save backup included from the start, because Early Access.
 
-Full history on the [Releases page](https://github.com/YOUR-USERNAME/pax-autocratica-trainer/releases).
+Full history on the [Releases page](https://github.com/FleaRectifier/Pax-Autocratica-Trainer/releases).
 
 ---
 
 ## Contributing
 
-Bug reports welcome — open an [issue](https://github.com/YOUR-USERNAME/pax-autocratica-trainer/issues) with your **exact game build number**, store (Steam or Epic), Windows version, whether you were in the colony or on an expedition, and which option misbehaved. Build number matters more than anything else here.
+Bug reports welcome — open an [issue](https://github.com/FleaRectifier/Pax-Autocratica-Trainer/issues) with your **exact game build number**, store (Steam or Epic), Windows version, whether you were in the colony or on an expedition, and which option misbehaved. Build number matters more than anything else here.
 
 ---
 
