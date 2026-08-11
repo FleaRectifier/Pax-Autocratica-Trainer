@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://facechainflate.github.io/pax-autocratica-trainer/sitemap.xml
+Sitemap: https://FleaRectifier.github.io/Pax-Autocratica-Trainer/sitemap.xml
